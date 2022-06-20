@@ -1,4 +1,4 @@
-Привет, я Михаил 👋●●
+Привет, я Михаил 👋<br/>  
 Web Developer
 
 
@@ -7,6 +7,6 @@ Web Developer
 - 📫 Как со мной связаться: [Linkedin](https://www.linkedin.com/feed/?trk=404_page).
 - ⚡ Забавный факт: Главное научиться учиться
 
-📢 Мои контакты:●●
-   -   tg: https://t.me/MihailDiper●●
-   -   mail: kukreshmihal@yandex.ru●●
+📢 Мои контакты:
+   -   tg: https://t.me/MihailDiper <br/>
+   -   mail: kukreshmihal@yandex.ru <br/>
