@@ -7,7 +7,7 @@ Web Developer
 https://sberanalytics.ru спроектировал с нуля
 https://navigator.sberanalytics.ru
 QUIZ для клиентов (каждый опрос живет небольшое время)
-Сервия для регистрации online/offline мероприятий 
+Сервис для регистрации online/offline мероприятий 
 
 📢 Мои контакты:
    - [Linkedin](https://www.linkedin.com/feed/?trk=404_page).
